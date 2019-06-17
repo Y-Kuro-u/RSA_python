@@ -3,6 +3,7 @@
 RSA class make a RSA_encryption key and decryptin keys
 
 description:
+
   RSA.encription():return encryption number, mod n number
   RSA.decryption():return decryption number, mod n number
   
